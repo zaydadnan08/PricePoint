@@ -4,6 +4,7 @@ Languages Used: HTML, CSS, JavaScript
 <br>
 Tools: Handlebars.js, Bootstrap, Sheets.js, UI Path
 
+Contributors: zaydadnan08, FahadAdnan, Angel-shah, AkbarZafar, and UmarAsif
 ## Inspiration
 
 I remember how stressful it was last boxing day to find the best deal online. What made it more difficult is the vast number of e-commerce websites that offer the same products for multiple different prices. PricePoint eliminates the need to survey multiple websites, spending multiple hours in hopes to get the best deal.
